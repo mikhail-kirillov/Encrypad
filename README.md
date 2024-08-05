@@ -15,7 +15,7 @@ To use Encrypad, you need to install Python on your computer along with the PyQt
 1. Clone the repository to your local computer:
 
    ```bash
-   git clone https://github.com/kirillov-michael/Encrypad.git
+   git clone https://github.com/mikhail-kirillov/Encrypad.git
    ```
 
 2. Install the required dependencies:
